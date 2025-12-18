@@ -1,17 +1,35 @@
 # Restaurant App
 
-BoilerPlate Used React Native [https://github.com/kaushiknishchay/React-Native-Boilerplate](https://github.com/kaushiknishchay/React-Native-Boilerplate)
+A cross-platform **Restaurant Application** built using **React Native** and **React.js**, designed to support **Android, iOS, and Web** platforms from a **single shared codebase**. The project focuses on clean architecture, reusable components, and separation of business logic from platform-specific UI.
 
+---
 
-BoilerPlate Used React.JS [https://github.com/Codebrahma/Codebrahma-React-Boilerplate](https://github.com/Codebrahma/Codebrahma-React-Boilerplate)
+## 📌 Project Overview
+
+This application demonstrates how a real-world restaurant or food-ordering platform can be built using a unified codebase. Shared logic is implemented using Redux and Redux-Saga, while UI layers are customized for mobile and web.
+
+The project can be extended to support:
+- Restaurant discovery
+- Menu and category browsing
+- Food ordering workflows
+- Cart and checkout systems
+- User authentication and profiles
+
+---
 
 ## Setup
+---
 
-## Prerequisites
+## ⚙️ Prerequisites
 
-- Install and  setup the backend server
- 
-[https://github.com/Codebrahma/RestaurantApp-Express](https://github.com/Codebrahma/RestaurantApp-Express)
+Before running the project, ensure the following are installed:
+
+- Node.js (LTS recommended)
+- Yarn or npm
+- Android Studio (for Android builds)
+- Xcode (for iOS builds, macOS only)
+
+---
 
 ### Installation
 
